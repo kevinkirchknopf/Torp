@@ -1,0 +1,15 @@
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.GeneratedMSBuildEditorConfig.editorconfig
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.AssemblyInfoInputs.cache
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.AssemblyInfo.cs
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.csproj.CoreCompileInputs.cache
+D:\13A\Kirchknopf Kevin\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.exe
+D:\13A\Kirchknopf Kevin\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.deps.json
+D:\13A\Kirchknopf Kevin\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.runtimeconfig.json
+D:\13A\Kirchknopf Kevin\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.dll
+D:\13A\Kirchknopf Kevin\TorpedoJatek\bin\Debug\net8.0\TorpedoJatek.pdb
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.dll
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\refint\TorpedoJatek.dll
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.pdb
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.genruntimeconfig.cache
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\ref\TorpedoJatek.dll
+D:\13A\Kirchknopf Kevin\TorpedoJatek\obj\Debug\net8.0\TorpedoJatek.sourcelink.json
