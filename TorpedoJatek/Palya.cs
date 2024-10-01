@@ -34,7 +34,7 @@ namespace TorpedoJatek
         {
             Console.Clear();
 
-          
+            keret();
             foreach (Pont p in Tenger)
             {
           
@@ -52,19 +52,19 @@ namespace TorpedoJatek
 
         private void keret()
         {
-            for(int i = 0; i < oszlop; i++)
+           
+            Console.WriteLine(new string('#', oszlop + 2));
+
+          
+            for (int i = 0; i < sor; i++)
             {
                 Console.Write("#");
-            }
-            Console.WriteLine();
-            for(int i = 0;i < sor;i++)
-            {
+                Console.Write(new string(' ', oszlop)); 
                 Console.WriteLine("#");
             }
-            for (int i = 0; i < 10; i++)
-            {
-                Console.Write("#");
-            }
+
+            
+            Console.WriteLine(new string('#', oszlop + 2));
 
         }
 
@@ -93,6 +93,19 @@ namespace TorpedoJatek
             return null;
         }
 
+        public bool IsOccupied(int x, int y)
+        {
+            
+            foreach (Pont point in Tenger)
+            {
+                
+                if (point.x == x && point.y == y)
+                {
+                    return true; 
+                }
+            }
+            return false; 
+        }
     }
 
 

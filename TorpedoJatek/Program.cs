@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
           Jatek jatek = new Jatek();
+        Console.ReadKey();
         }
     }
 }

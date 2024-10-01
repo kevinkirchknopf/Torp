@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TorpedoJatek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+987097eb31fb889b059344f6c7723020a37af82d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6829604da3e3652f50708e17d6a5a4dbcfd9cf59")]
 [assembly: System.Reflection.AssemblyProductAttribute("TorpedoJatek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TorpedoJatek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
